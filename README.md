@@ -1,2 +1,2 @@
-# Fisika-Zat-Padat
-Permodelan struktur kristal simple cubic
+# Permodelan Struktur Kristal Simple Cubic
+
